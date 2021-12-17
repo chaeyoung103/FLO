@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidstudioProject/BottomNaviTemlate/BottomNaviTemplate/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/drawable/button_shape.xml" value="0.17123287671232876" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/drawable/img_round_shape.xml" value="0.22847222222222222" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/drawable/seekbar_progressbar.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/drawable/toggle_image_size.xml" value="0.17123287671232876" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/drawable/toggleon_image_size.xml" value="0.16233766233766234" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/activity_song.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_album.xml" value="0.22" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_banner.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_home.xml" value="0.20415430267062315" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_locker.xml" value="0.3560606060606061" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_locker_savedalbum.xml" value="0.18287037037037038" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_look.xml" value="0.32592592592592595" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_musicfile.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_search.xml" value="0.32592592592592595" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_song.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_storage.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/fragment_video.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/item_album.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/item_locker_album.xml" value="0.18287037037037038" />
+        <entry key="..\:/AndroidstudioProject/FLO/BottomNaviTemplate/app/src/main/res/layout/item_storage.xml" value="0.4466666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
